@@ -134,7 +134,7 @@
 		    <artifactId>commons-io</artifactId>
 		    <version>2.4</version>
 	    </dependency>
-	    <!-- RabbitMQ Dependency -->
+	    <!-- RabbitMQ Dependencyy -->
 	    <dependency>
 	            <groupId>org.springframework.amqp</groupId>
 	            <artifactId>spring-rabbit</artifactId>
